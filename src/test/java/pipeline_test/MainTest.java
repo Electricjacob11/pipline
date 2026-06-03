@@ -9,4 +9,8 @@ class MainTest {
     void testAdd() {
         assertEquals(5, Main.add(2, 3));
     }
+
+    @org.junit.jupiter.api.Test
+    void add() {
+    }
 }
