@@ -7,7 +7,7 @@ class MainTest {
 
     @Test
     void testAdd() {
-        assertEquals(5, Main.add(2, 3));
+        assertEquals(90, Main.add(34, 56));
     }
 
     @org.junit.jupiter.api.Test
